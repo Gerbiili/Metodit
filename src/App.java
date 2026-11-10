@@ -15,7 +15,7 @@ public class App {
         tulostaKuumerajat();
 		if (onkoKuumetta(kohde,lampotila)==true)
 		{
-			System.out.println("Kohteella on kuumetta.");
+			System.out.println("Khteella on kuumetta.");
 		}
 		else
 		{
