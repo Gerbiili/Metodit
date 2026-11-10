@@ -28,7 +28,7 @@ public class App {
 public static void tulostaKuumerajat(){
     System.out.println("Ihminen 37");
     System.out.println("Koira 39");
-    System.out.println("Hevonen 3");
+    System.out.println("Hevonen 387");
 }
 // Ekan metodin loppu
 
